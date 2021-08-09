@@ -1,0 +1,29 @@
+touch <file name>  //without <> -> used for creating new files
+
+git init -> is used for initialising a new repository in local system (in your system)
+
+git config --global user.name "VishnuNadella" -> to create a snapshot and enter into master
+
+git add <file name with extension> -> used for adding files
+git add *.extension -> all files with that extension will be added
+git add . -> all files in that local repository will be added
+
+git status -> self explanatory it provides status of the files
+
+git rm --cached <file name with extension> -> to remove or undo commit
+
+git commit -> to commit or save the files in other word inserting the files to repo
+
+git commit -m "comment" -> used when ever we want to commit something with a comment
+
+git branch <name of the branch> -> to create new branch
+
+git checkout <name of the branch> -> used to switch branches
+
+touch .gitignore -> used for ignoring files where the folders or files will not be added or considered by git
+
+git remote -> used for creating a local copy of repo in ex:(Github, and similar platforms like Github or servers)
+
+git merge <name of the branch> -> used to merge branches
+
+git push -> used for uploading files to the server or to GitHub
