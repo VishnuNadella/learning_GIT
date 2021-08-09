@@ -1,2 +1,2 @@
-#LearningGIT
+# LearningGIT
 This is my very first time using git
