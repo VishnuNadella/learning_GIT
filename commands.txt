@@ -27,3 +27,5 @@ git remote -> used for creating a local copy of repo in ex:(Github, and similar 
 git merge <name of the branch> -> used to merge branches
 
 git push -> used for uploading files to the server or to GitHub
+
+rm -r .git -> used for exiting master (or node or branch to be precise)
